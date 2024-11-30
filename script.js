@@ -8,11 +8,11 @@ return data;
 }
   function getCatImage(description) {
     const catImages = {
-        "clear sky":"",
-        "few clouds":"",
-        "rain":"",
-        "snow":"",
-        "default":""
+        "clear sky":"https://animals.pibig.info/uploads/posts/2023-04/1681529157_animals-pibig-info-p-rizhii-kot-vpered-zhivotnie-krasivo-73.jpg",
+        "broken clouds":"https://cojo.ru/wp-content/uploads/2022/12/ryzhaia-koshka-5.webp",
+        "rain":"https://i.pinimg.com/736x/26/bc/22/26bc228e17bd2d02dfb5937982ce8d7b.jpg",
+        "snow":"https://koshka.top/uploads/posts/2021-11/thumbs/1638278969_13-koshka-top-p-koshka-pervii-sneg-15.png",
+        "default":"https://animals.pibig.info/uploads/posts/2023-04/thumbs/1681777505_animals-pibig-info-p-kot-v-zakone-zhivotnie-pinterest-38.jpg"
     };
     return catImages[description]|| catImages["default"];
   };
