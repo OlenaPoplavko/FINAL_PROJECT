@@ -1,1 +1,8 @@
-
+body {
+    font-family: 'Gloria Hallelujah', cursive;
+    background-color: #fff5e1;
+    color: #5a3e2b;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}

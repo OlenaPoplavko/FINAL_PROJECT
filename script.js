@@ -25,6 +25,6 @@ document.getElementById("catWeatherDisplay").innerHTML =
 `<h2>Weather in ${weatherData.name}</h2>
 <p>Temperature: ${weatherData.main.temp}°C</p>
 <p>Description: ${weatherData.weather[0].description}</p>
-<img src="${catImageUrl}" alt="Weather Cat" style="max-width: 300px; border-radius: 10px;"/>`;    
+<img src="${catImageUrl}" alt="Weather Cat""/>`;    
 
 });
