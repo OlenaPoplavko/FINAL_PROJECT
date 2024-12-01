@@ -138,6 +138,7 @@ This README file was structured and formatted using a variety of resources, incl
 ├── script.js          # JavaScript logic
 ├── README.md          # Project description
 
+
 📧 Contact
 If you have any questions or suggestions, feel free to contact me:
 
@@ -146,6 +147,5 @@ GitHub: https://github.com/OlenaPoplavko
 
 🌟 Acknowledgments
 Special thanks to:
-
 - REDI School for guidance and support during the learning process.
 - To all the teachers at REDI School for their time, dedication, and incredible motivation. Your passion for teaching has made learning not only engaging but also inspiring. Thank you for fostering a positive, supportive, and dynamic environment that encouraged me to explore my creativity and build this project.
