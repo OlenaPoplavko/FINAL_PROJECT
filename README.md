@@ -52,6 +52,8 @@ This project also felt manageable for my current skill level while still providi
 - [cojo.ru](https://cojo.ru)
 - [koshka.top](https://koshka.top)
 - [i.pinimg.com](https://i.pinimg.com)
+- [wallpaperscraft.ru](https://wallpaperscraft.ru/)
+- [kartin.papik.pro](https://kartin.papik.pro/)
 
 ### **Learning Resources**
 1. **Documentation and Tutorials**:
@@ -84,13 +86,17 @@ This project also felt manageable for my current skill level while still providi
 ---
 
 ## ✨ AI Assistance
-This project was partially developed with assistance from ChatGPT. Specifically:
-- **Debugging**: ChatGPT helped identify and resolve issues in JavaScript and CSS.
-- **Brainstorming**: AI suggested improvements for structure and logic flow.
-- **Learning**: Used as a resource for understanding best practices and code optimization.
+To enhance the development process and overcome challenges, I occasionally referred to ChatGPT for:
+- Suggestions on code debugging and minor optimization tasks.
+- Guidance on structuring parts of the application logic.
+- Clarification of web development concepts during learning.
+
+All suggestions were carefully reviewed, adjusted, and integrated to align with the project's goals and to ensure personal understanding and ownership of the final implementation.
+
+---
 
 ### README File Creation
-This README file was created and formatted with the assistance of ChatGPT to ensure clarity, proper structure, and compliance with project requirements.
+This README file was structured and formatted using a variety of resources, including examples from online repositories and educational tools like ChatGPT, to ensure a clear and professional presentation.
 
 ---
 
